@@ -1,0 +1,14 @@
+.App{
+  display: flex;
+  margin: 10PX;
+  width: 300px;
+  height: 150px;
+  border: 1px solid  black;
+}
+.button-1{
+  width: 99px;
+  height: 45px;
+  margin: 5px;
+  position: sticky;
+  
+}
