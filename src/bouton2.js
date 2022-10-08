@@ -30,7 +30,7 @@ export function Bouton2 (){
       let _x  =getRandomInt(3);
       let _y = getRandomInt(3);
 
-      while (x == _x || y == _y) {
+      while (x == positions_x[_x] || y == positions_y[_y]) {
       _x  =getRandomInt(3);
       _y = getRandomInt(3);
       }
