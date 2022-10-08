@@ -12,11 +12,13 @@
   height: 45px;
   margin: 5px;
   position: absolute;
+  z-index: 5;
 }
-.hitbox2{
+.hitbox2,.hitbox3{
   width: 115px;
   height: 65px;
   position: absolute;
+  z-index: 4;
 }
 
 .App{
